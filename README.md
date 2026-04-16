@@ -355,35 +355,6 @@ The diabetes dataset contains comprehensive medical records with:
 - Risk scoring metrics
 
 ---
-
-## 🎓 Model Explanations
-
-### Random Forest (99.96% ✓ Best)
-- Ensemble of decision trees
-- Excellent for non-linear relationships
-- Robust to outliers
-- Great generalization
-
-### Gradient Boosting (99.95%)
-- Sequential tree building
-- Minimizes errors iteratively
-- Strong performance on complex patterns
-- Slightly slower training
-
-### SVM (99.84%)
-- Boundary-based classification
-- Effective in high dimensions
-- Requires feature scaling
-- Good for binary classification
-
-### Logistic Regression (99.79%)
-- Linear probability model
-- Interpretable results
-- Fast training
-- Good baseline model
-
----
-
 ## 🔍 Next Steps
 
 To further improve:
@@ -393,19 +364,5 @@ To further improve:
 4. Create prediction interface
 5. Add real-time model updates
 6. Implement user authentication
-
----
-
-## ✅ Checklist
-
-- [x] Models trained and evaluated
-- [x] Visualizations generated
-- [x] Dashboard created
-- [x] Animations implemented
-- [x] Responsive design added
-- [x] User profile badge added
-- [x] README documentation
-
----
 
 **Happy Analyzing! 🚀**
